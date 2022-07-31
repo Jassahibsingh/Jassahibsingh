@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jassahibsingh
-- 👀 I’m interested in Web Development, Blockchain Development & App Development
+- 👀 I’m interested in Web Development, AR & App Development
 - 🌱 I’m currently learning all three mentioned above.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - Email-> jassahibsinghedu@gmail.com
