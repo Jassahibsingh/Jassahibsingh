@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Jassahibsingh
-- 👀 I’m interested in Web Development, AR & App Development
+- 👀 I’m interested in Web/App Development, AR & Web3.
 - 🌱 I’m currently learning all three mentioned above.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - Email-> jassahibsinghedu@gmail.com
+- 📫 How to reach me - Email-> jassahibsingh.work@gmail.com
 
 <!---
 Jassahibsingh/Jassahibsingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
